@@ -1,8 +1,10 @@
-Hi, I'm Taylor Ordines. I am a physicist making use of the tools of computation to bring together the best ideas from
-- **Quantum field theory** &ndash; ever heard of the QFT-NN correspondance, the notion of describing neural networks in terms of effective quantum field theories?
-- **Condensed matter physics** &ndash; imagine understanding the phase landscape of a novel system by *discovering phases with an unsupervised learning program* and *identifying individual phases with a supervised learning program*
-- **Machine learning**
-- **Quantum information**
+Hi, I'm Taylor Ordines. I am a physicist working on the interplay between *Artificial Intelligence* and *Physics*.
+I am interested in the question of how can AI systems, like neural networks, and physical formalisms, like quantum and group field theory, be used to facilitate deeper understanding of complex ideas.
+Specifically, I study
+- **Symmetry group applications to neural networks** &ndash; neural network architectures with known symmetries leverage internal implementations to produce phenomenal predictive outputs. For example, *Convolutional Neural Networks* make use of translational symmetries, such as recognizing distinct patterns in images regardless of their position in the frame, to great effect in image recognition tasks. Other architectures might similarly make use of symmetries in their design to create more robust, less costly systems.
+- **Quantum field theories for neural networks** &ndash; the QFT-NN correspondance describes neural networks in terms of effective field theories, allowing us to leverage the multitude of tools developed over the last century in the study of neural network architectures. Neural networks typically work as "black boxes," and we are unable to readily understand their training and how they actually operate apart from basic trial-and-error practice. Instead, we can model neural networks using the tools of effective quantum field theory, which is able to extract long-range, relevant features from a large set of microscopic constituents. This allows us to understand otherrwise difficult, if not impossible, to understand details about specific neural network architectures.
+- **Group field theories for neural networks** &ndash; augmenting quantum field theories with group-theoretic data describing internal symmetries of a system gives rise to group field theory: rather than the quantum field being defined on the usual spacetime structure, the field is defined over some *group manifold*. This allows us to combine the ideas of the previous two points into a conveniently structured description. We can then insert the intuitions from physical symmetries while simultaneously leveraging the tools of modelling neural networks with quantum fields.
+- 
 
 The repositories you can find on my profile are a small selection of my portfolio intended to demonstrate a few compelling and pedagogical examples of the intersection between physics, machine learning, and quantum information. Send me an email at orditm15@wfu.edu if you are interested in some other projects I am working on!
 
