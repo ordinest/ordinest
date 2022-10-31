@@ -1,4 +1,4 @@
-Hi, I'm Taylor Ordines. I am a physicist working on the interplay between *Artificial Intelligence* and *Physics*.
+Hi, I'm Taylor Ordines. I am a physicist working on the interplay between **Artificial Intelligence** and **Physics**.
 In these repositories you can find a small selection of my portfolio intended to demonstrate a few compelling and pedagogical examples of the intersection of physics and artificial intelligence, as well as the repository for my professional website. Please email me at [orditm15@wfu.edu](mailto:orditm15@wfu.edu) if you are interested in learning more about these projects or are interested in collaborating.
 
 (Note that a majority of my projects are held in private repositories under a separate personal account. This GitHub profile is a work in progress).
